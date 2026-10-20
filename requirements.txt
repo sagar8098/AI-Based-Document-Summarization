@@ -1,0 +1,8 @@
+streamlit==1.66.0
+torch
+transformers==4.46.3
+sentencepiece
+PyMuPDF
+numpy
+pandas
+Pillow
